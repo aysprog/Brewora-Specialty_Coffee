@@ -6,6 +6,8 @@
 
 A modern and responsive specialty coffee website designed to bring a smooth and enjoyable coffee-shopping experience to the web.
 
+**[View Live Website](https://aysprog.github.io/Brewora-Specialty_Coffee/)**
+
 </div>
 
 ---
@@ -60,6 +62,7 @@ Its design uses a carefully selected palette of forest green, sage, cream, and w
 
 ![Brewora Shop Page](screenshots/coffee-shop.png)
 
+---
 
 ## Project Structure
 
@@ -67,6 +70,10 @@ Its design uses a carefully selected palette of forest green, sage, cream, and w
 coffee/
 │
 ├── img/
+├── screenshots/
+│   ├── coffee-homepage.png
+│   └── coffee-shop.png
+│
 ├── index.html
 ├── shop.html
 ├── script.js
@@ -74,6 +81,8 @@ coffee/
 ```
 
 ## Getting Started
+
+To run Brewora locally:
 
 1. Clone or download this repository.
 2. Open the project folder in your code editor.
