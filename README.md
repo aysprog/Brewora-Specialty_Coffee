@@ -48,6 +48,19 @@ Its design uses a carefully selected palette of forest green, sage, cream, and w
 | Espresso | `#211A15` |
 | Gold | `#C69A6B` |
 
+---
+
+## Website Preview
+
+### Homepage
+
+![Brewora Homepage](screenshots/coffee-homepage.png)
+
+### Shop Page
+
+![Brewora Shop Page](screenshots/coffee-shop.png)
+
+
 ## Project Structure
 
 ```text
